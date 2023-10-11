@@ -23,6 +23,7 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: https://www.stumbleupon.com/
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 ![Black cat][Black]
 
 ![Orange cat][Orange]
