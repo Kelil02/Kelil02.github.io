@@ -12,15 +12,15 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 #### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.
-[Search for it](www.google.com)
-[You're **really, really** going to want to see this](www.dailykitten.com)
-#### The Latest News from [the BBC](www.bbc.com/news)
+[Search for it](https://www.google.fi/?hl=fi)
+[You're **really, really** going to want to see this](https://dailykitten.com/)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://zombo.com/
+[another fun place]: https://www.stumbleupon.com/
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][Black]
